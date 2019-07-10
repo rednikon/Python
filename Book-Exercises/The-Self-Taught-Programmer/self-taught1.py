@@ -34,6 +34,7 @@ else:
     print("The variable you entered is greater than 25.")
 
 # 4. Create a program that divides two variables and prints the remainder. 
+<<<<<<< HEAD
 print("\nLet's divide some numbers.")
 numerator = input("Please enter a numerator: ")
 n = int(numerator)
@@ -59,3 +60,5 @@ elif 18 < a < 35:
 else:
     print("You're hitting your stride.")
     
+=======
+>>>>>>> 1c71af39d150f36d7af91a93d7c3266c07d0ed66
