@@ -5,7 +5,7 @@ Created on Thu Jun 20 22:12:37 2019
 
 @author: veemac
 
-The fist set of challenges from "The Self-Taught Programmer"
+The fist set of challenges from "The Self-Taught Programmer", Chapters 1 - 3
 """
 # 1. Print a string
 print("The Self-Taught Programmer Exercises")
