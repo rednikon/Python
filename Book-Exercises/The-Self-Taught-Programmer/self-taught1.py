@@ -59,6 +59,4 @@ elif 18 < a < 35:
 
 else:
     print("You're hitting your stride.")
-    
-=======
->>>>>>> 1c71af39d150f36d7af91a93d7c3266c07d0ed66
+
