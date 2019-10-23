@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 20 22:12:37 2019
-
 @author: veemac
 
 The fist set of challenges from "The Self-Taught Programmer", Chapters 1 - 3
