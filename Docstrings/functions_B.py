@@ -27,8 +27,8 @@ def volume(w, d, h):
 
 
 def area(w, d, h, has_top=False):
-    """Returns the surface of a box.  The box migh not have a top.
-
+    """
+    Returns the surface of a box.  The box migh not have a top.
     Surface area without top
     >>> area(3, 4, 5, has_top=False)
     82
