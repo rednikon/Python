@@ -9,7 +9,7 @@ The fist set of challenges from "The Self-Taught Programmer", Chapters 1 - 3
 print("The Self-Taught Programmer Exercises")
 
 
-# 2. Print a message if a variable is less than 10, and another message if the veriable is equal or greater than 10
+# 2. Print a message if a variable is less than 10, and another message if the variable is equal or greater than 10
 var_one = input("Please enter a whole number: ")
 x = int(var_one)
 
