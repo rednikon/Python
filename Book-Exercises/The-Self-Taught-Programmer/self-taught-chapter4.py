@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul 24 14:05:31 2019
+Created on Wed Jul 24, 2019
 
 @author: veemac
 
