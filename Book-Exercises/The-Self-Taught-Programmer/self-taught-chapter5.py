@@ -20,3 +20,4 @@ previous_residences = [(8.3405, 115.0920), (52.5200, 13.4050), (20.4230, 86.9223
 my_personal_details = ['Name': 'Vee', 'Favorite Color': 'Green', 'Favorite Author': 'William Shakespeare', 'Favorite Hobbies': 'Writing, Motorcycles, SCUBA']
 
 # 5.4 Write a program that let's the user ask about your personal details and returns the results you gave in the previous exercise.
+print
